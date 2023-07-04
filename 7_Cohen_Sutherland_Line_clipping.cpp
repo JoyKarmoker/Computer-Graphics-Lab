@@ -285,7 +285,7 @@ point b below right:
 900
 100
 700
-400 400
+50 50
 950 740
 
 point b below left:
@@ -293,7 +293,7 @@ point b below left:
 900
 100
 700
-400 400
+400 50
 50 740
 
 */
